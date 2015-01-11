@@ -1,2 +1,2 @@
-# slenkins
-simple app for jenkins integration
+README for orchapp
+==========================
